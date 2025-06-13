@@ -1,6 +1,6 @@
-# 🚀 AI Dev Tasks for Cursor 🤖
+# 🚀 Vibe Codeing workflow 🤖
 
-Welcome to **AI Dev Tasks**! This repository provides a collection of `.mdc` (Markdown Command) files designed to supercharge your feature development workflow within the [Cursor](https://cursor.sh/) editor. By leveraging these commands with Cursor's AI Agent, you can systematically approach building features, from ideation to implementation, with built-in checkpoints for verification.
+Welcome to **Vibe Codeing workflow**! This repository provides a collection of `.mdc` (Markdown Command) files designed to supercharge your feature development workflow within the [Cursor](https://cursor.sh/) editor. By leveraging these commands with Cursor's AI Agent, you can systematically approach building features, from ideation to implementation, with built-in checkpoints for verification.
 
 Stop wrestling with monolithic AI requests and start guiding your AI collaborator step-by-step!
 
